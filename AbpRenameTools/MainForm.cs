@@ -24,7 +24,7 @@ namespace AbpRenameTools
         private void MainForm_Load(object sender, EventArgs e)
         {
             tbOrgName.Text = "MyCompanyName.AbpZeroTemplate";
-            tbNewName.Text = "FuturesTransactionManager";
+            tbNewName.Text = "GR";
             tbChildDir.Text = "src,test";
             tbFilterPath.Text = "bin,obj,Properties";
             tbFilterFileExt.Text = "xml,json";
